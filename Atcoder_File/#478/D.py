@@ -8,7 +8,7 @@ for _ in range(q):
 
 imos = [0] * (n + 2)
 #print(dict)
-print(list(dict.items()))
+#print(list(dict.items()))
 for x, lis in dict.items():
     lis.sort()
     
