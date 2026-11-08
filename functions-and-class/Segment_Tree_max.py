@@ -23,5 +23,5 @@ class SegT_max:
 
 data = [1,2,3,4,5,6,7,8]
 seg = SegT_max(data)
-seg.add(1,100)
+#seg.add(1,100)
 print(seg.tree)
